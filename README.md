@@ -1,7 +1,7 @@
 # intro--cs-2024
 A collection of programs I did for Intro to CS in 2023-2024
+   
     Copyright (C) 2024  EW3ADN
-
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
